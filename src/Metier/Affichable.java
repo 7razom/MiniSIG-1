@@ -12,7 +12,7 @@ public abstract class Affichable
 	//Get
 	public String getLibelle()
 	{
-		return this.libelle; //commm inutile
+		return this.libelle;
 	}
 	
 	public String getDescription()
