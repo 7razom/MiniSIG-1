@@ -1,7 +1,7 @@
 package Metier;
 
 
-//Interface qui instancie 4 attributs utilisé dans POI, Parcours et Lieu
+//Interface qui instancie 4 attributs utilisï¿½ dans POI, Parcours et Lieu
 public abstract class Affichable
 {
 	private String libelle;
@@ -12,7 +12,7 @@ public abstract class Affichable
 	//Get
 	public String getLibelle()
 	{
-		return this.libelle;
+		return this.libelle; //commm inutile
 	}
 	
 	public String getDescription()
